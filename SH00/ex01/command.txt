@@ -1,0 +1,5 @@
+echo '                                       '>> testShell00
+chmod 455 testShell00
+touch -t 202406012342.00 testShell00
+tar -cf testShell00.tar testShell00
+
