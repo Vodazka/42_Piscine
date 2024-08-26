@@ -1,4 +1,4 @@
-EXERCISE 03 --- Only the best know how to display Z
+EXERCISE 00 --- Only the best know how to display Z
 ===============================
 Turn-in directory: ex00/
 Files to turn in: z
