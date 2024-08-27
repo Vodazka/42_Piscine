@@ -1,4 +1,4 @@
-EXERCISE 04 --- ft_print_comb
+EXERCISE 05 --- ft_print_comb
 ===============================
 Turn-in directory: ex05/
 Files to turn in: ft_print_comb.c
