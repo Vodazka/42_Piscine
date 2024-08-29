@@ -1,0 +1,7 @@
+Ticket cache: FILE:/tmp/krb5cc_1000
+Default principal: user@YOUR_REALM
+
+Valid starting       Expires              Service principal
+08/29/2024 08:00:00  08/29/2024 18:00:00  krbtgt/YOUR_REALM@YOUR_REALM
+
+*As of right now. I do not have acess to the school's network*

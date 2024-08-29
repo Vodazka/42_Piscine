@@ -1,0 +1,13 @@
+EXERCISE 03 --- Connect me!
+===============================
+Turn-in directory: ex03/
+Files to turn in: klist.txt
+Allowed functions: None
+===============================
+* Make sure you have a valid (non expired) Kerberos ticket. If you don't have one yet, get one.
+
+* Once you've got at least one Kerberos ticket, write a list of all your tickets in a file named klist.txt
+
+		* The file's name was not choosen randomly.
+
+		* Those commands will be of use later, so try to not forget them!
