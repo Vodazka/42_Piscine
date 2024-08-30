@@ -1,6 +1,6 @@
 EXERCISE 01 --- ft_ultimate_ft
 ===============================
-Turn-in directory: ex00/
+Turn-in directory: ex01/
 Files to turn in: ft_ultimate_ft.c
 Allowed functions: none
 ===============================
