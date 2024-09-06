@@ -4,7 +4,9 @@ Turn-in directory: ex04/
 Files to turn in: midLS
 Allowed functions: None
 ===============================
-* In a midLS file, place the command line that will list all files and directories in your current directory (except for the hidden files or any file that starts by a dot - yes, that includes double-dots), separated by a comma, by order of creation date. Make sure directories' names are followed by a slash character.
+* In a midLS file, place the command line that will list all files and directories in your current directory 
+(except for the hidden files or any file that starts by a dot - yes, that includes double-dots), separated by a comma, 
+by order of creation date. Make sure directories' names are followed by a slash character.
 
 		* What has not been asked for should not be done!
 
