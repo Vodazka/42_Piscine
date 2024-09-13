@@ -82,10 +82,3 @@ void *ft_print_memory(void *addr, unsigned int size)
 	}
 	return addr;
 }
-
-int main(void)
-{
-	char str[] = "Hello, this is a test\nwith some non-printable chars: \x7f\x01";
-	ft_print_memory(str, sizeof(str) - 1);
-	return 0;
-}
