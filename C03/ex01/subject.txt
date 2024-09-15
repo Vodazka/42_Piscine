@@ -1,0 +1,10 @@
+EXERCISE 01 --- ft_strncmp
+===============================
+Turn-in directory: ex01/
+Files to turn in: ft_strcmp.c
+Allowed functions: none
+===============================
+* Reproduce the behavior of the function strncmp (man strncmp).
+
+* Here's how it should be prototyped:
+	int ft_strncmp(char *s1, char *sw2, unsigned int n);
