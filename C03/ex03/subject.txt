@@ -1,0 +1,10 @@
+EXERCISE 03 --- ft_strncat
+===============================
+Turn-in directory: ex03/
+Files to turn in: ft_strncat.c
+Allowed functions: none
+===============================
+* Reproduce the behavior of the function strncat (man strncat).
+
+* Here's how it should be prototyped:
+	char *ft_strncat(char *dest, char *src, unsigned int nb);
