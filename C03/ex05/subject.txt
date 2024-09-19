@@ -1,0 +1,10 @@
+EXERCISE 05 --- ft_strlcat
+===============================
+Turn-in directory: ex05/
+Files to turn in: ft_strlcat.c
+Allowed functions: none
+===============================
+* Reproduce the behavior of the function strlcat (man strlcat).
+
+* Here's how it should be prototyped:
+	unsigend int ft_strlcat(char *dest, char *src, unsigned int size);
